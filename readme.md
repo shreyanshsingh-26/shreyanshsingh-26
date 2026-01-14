@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Shreyansh 👋</h1>
 
-<p align="center">I love learning and building new things. It's just my curiosity hitting 🚀</p>
+<p align="center">A computer science student growing through practice + It's just my curiosity hitting 🚀</p>
 
 <h2 align="center">🔧 Skills</h2>
 
