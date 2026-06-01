@@ -7,5 +7,5 @@
 <h2 align="center">🔧 Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,nodejs" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,nodejs,git,github,vscode" />
 </p>
